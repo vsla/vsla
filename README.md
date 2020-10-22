@@ -3,7 +3,7 @@
 
 ## About me
 
-My name is Victor, i'm a junior software engineer, actually working on [this project](www.obapet.com.br) at Tuna company.
+My name is Victor, i'm a junior software engineer, actually working on [this project](www.obapet.com.br) at MelhorCom company.
 
 ## Skills
 
