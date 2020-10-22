@@ -1,4 +1,21 @@
-### Hi there 👋
+
+# Hello there!
+
+## About me
+
+My name is Victor, i'm a junior software engineer, actually working on [this project](www.obapet.com.br) at Tuna company.
+
+## Skills
+
+- React, React native and NodeJs
+- AWS knowledge
+- Python
+- ❤️ to learn 
+
+## How to reach me
+
+- 💌 vsla@cin.ufpe.br
+- [linkedin](https://www.linkedin.com/in/victor-sena-de-lima-attar-a54160161/)
 
 <!--
 **vsla/vsla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
