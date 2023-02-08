@@ -3,7 +3,7 @@
 
 ## About me
 
-My name is Victor, i'm a junior software engineer, actually working on [this project](https://www.obapet.com.br) at MelhorComunicação company.
+My name is Victor, i'm a software engineer at Serasa Experian company.
 
 ## Skills
 
