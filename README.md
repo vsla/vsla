@@ -8,7 +8,9 @@ My name is Victor, i'm a software engineer at Serasa Experian company.
 ## Skills
 
 - React, React native and NodeJs
-- AWS knowledge
+- Typescript
+- Testing ALWAYS! BDD and TDD.
+- AWS general knowledge
 - Python
 - ❤️ to learn 
 
