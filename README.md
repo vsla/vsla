@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Attar</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
 <p align="left" style='margin-left: 10px'>
 <img src="https://komarev.com/ghpvc/?username=vsla&label=Profile%20views&color=0e75b6&style=flat" alt="vsla" />
@@ -14,7 +14,7 @@
 
  <!-- </div> -->
 
-- 🔭 I’m currently working on [Serasa Experian](https://www.serasaexperian.com.br/solucoes/agro/)
+- 🔭 I’m currently working on [Shipwell](https://www.shipwell.com/)
 
 - 🌱 I’m currently learning **NextJs and NestJs**
 
